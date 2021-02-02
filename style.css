@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter';
+  font-size: 16px;
+}
+
+.btn-icon {
+  width: 2.5rem;
+  height: 2.5rem;
+  font-size: .83333rem;
+}
+
+.avatar {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.navbar-toggler {
+  margin-left: 0.5rem;
+}
+
+.pl-6 {
+  padding-left: 2.5rem;
+}
+
+.bg-icon {
+  text-align: center;
+  width: 3rem;
+  height: 3rem;
+  line-height: 3rem;
+  color: #c28135;
+  background-color: #ffeeda;
+  border-radius: 50%;
+}
